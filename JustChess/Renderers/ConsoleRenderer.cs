@@ -29,6 +29,8 @@ namespace JustChess.Renderers
                 for (int Col = 0; Col < board.totalCols; Col++)
                 {
 
+
+
                     if(currentcolour%2 ==0)
                     {
                          colour = BlackWhite[1];
